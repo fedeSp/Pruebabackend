@@ -1,4 +1,4 @@
-# Pruebabackend
+# Prueba backend
 
 ## Instrucciones
 

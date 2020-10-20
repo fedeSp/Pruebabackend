@@ -2,11 +2,11 @@
 
 ## Instrucciones
 
-1. Clonar repo:
+* Clonar repo:
 
 `git clone https://github.com/fedeSp/Pruebabackend.git`
 
-2. Abrir la carpeta generada, con git
+* Abrir la carpeta generada, con git
 
 ### Instalar composer
 

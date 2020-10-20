@@ -52,14 +52,14 @@
             @enderror
 
             <!-- desplegable de paises -->
-            <select name="pais" id="pais" class="select">
+            <select name="pais" id="pais" class="select" id="pais">
             
              <!-- se recorre el array de paises y devuelve cada uno de ellos-->
+                <option disabled selected>-- Selecciona un Pais --</option>
                 @foreach($paises as $pais)
                     <option name={{$pais}} class="select-item">{{$pais}}</option>
                 @endforeach
             </select>
-
             <br>
             <button class="btn btn-dark">
               <i class="far fa-plus-square fa-lg mr-2"></i>

@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Usuario;
 use Illuminate\Http\Request;
-use GuzzleHttp\Client;
 
 class UsuarioController extends Controller
 {

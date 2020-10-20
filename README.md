@@ -2,11 +2,11 @@
 
 ## Instrucciones
 
-### Clonar repo:
+1. Clonar repo:
 
->git clone https://github.com/fedeSp/Pruebabackend.git
+`git clone https://github.com/fedeSp/Pruebabackend.git`
 
-### Abrir la carpeta generada, con git
+2. Abrir la carpeta generada, con git
 
 ### Instalar composer
 
@@ -14,19 +14,19 @@
 
 ### Instalar Laravel
 
->composer global require laravel/installer
+`composer global require laravel/installer`
 
 ### Con git, ingresar en la carpeta "Proyecto_Backend"
 
->cd Proyecto_Backend
+`cd Proyecto_Backend`
 
 ### Ejecutar composer
 
->composer install
+`composer install`
 
 ### Y el comando:
 
-> composer update
+`composer update`
 
 ### Levantar MySQL y crear la base de datos "prueba"
 
@@ -36,14 +36,14 @@
 
 ### Crear la key con el comando:
 
->php artisan key:generate
+`php artisan key:generate`
 
 ### Cargar las migraciones
 
->php artisan migrate
+`php artisan migrate`
 
 ### Por ultimo levantar el proyecto
 
->php artisan serv o php artisan serve
+`php artisan serv o php artisan serve`
 
 

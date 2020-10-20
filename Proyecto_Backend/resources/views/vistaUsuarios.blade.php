@@ -47,7 +47,7 @@
                     {{csrf_field()}}
 
                     <input type="hidden" name="id" value="{{$usuario->id}}">
-                    <button type="submit" class="btn btn-outline-danger" onclick="return confirm('¿Quieres eliminar la marca?')">
+                    <button type="submit" class="btn btn-outline-danger" onclick="return confirm('¿Quieres eliminar el usuario?')">
                         <i class="fas fa-trash-alt fa-lg mr-2"></i>
                         Eliminar
                     </button>

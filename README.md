@@ -46,11 +46,16 @@
 
 ### Levantar MySQL y crear la base de datos "prueba"
 
+***
+
 ### Copiar el archivo .env.example, pegarlo en la misma carpeta quitandole el ".example" del nombre
+
+***
 
 ### Modificar dentro del .env creado, "DB_DATABASE" añadiendo el nombre de la base de datos
 
 ***
+
 ### Crear la key con el comando:
 
 `php artisan key:generate`

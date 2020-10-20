@@ -10,7 +10,7 @@
 
 ***
 
-### Abrir la carpeta generada, con git
+### Con git, abrir la carpeta generada
 
 ***
 
